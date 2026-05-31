@@ -1,0 +1,8 @@
+# Python dependencies for py-recon-basics
+# Install everything with: pip install -r requirements.txt
+
+# Will be added on Day 4:
+# python-whois
+
+# Will be added on Day 5:
+# requests

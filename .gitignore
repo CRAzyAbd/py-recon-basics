@@ -1,0 +1,31 @@
+# Python bytecode — auto-generated files, not source code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment — huge folder, never push this to GitHub
+venv/
+env/
+.venv/
+
+# Python packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS junk files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files — contain secrets, NEVER commit these
+.env
+.env.*
