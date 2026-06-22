@@ -1,8 +1,8 @@
 # Python dependencies for py-recon-basics
-# Install everything with: pip install -r requirements.txt
+# Install all at once: pip install -r requirements.txt
 
-# Will be added on Day 4:
-# python-whois
+# Domain WHOIS lookups (imported as 'whois' in code, installed as 'python-whois')
+python-whois
 
-# Will be added on Day 5:
+# HTTP header inspection — added Day 5
 # requests
